@@ -37,3 +37,11 @@ header ul {
 .social li a {
   color: #fff;
 }
+
+.navbar {
+  padding: 30px 0;
+}
+
+.bg-light {
+  background-color: #fff !important;
+}
