@@ -1,0 +1,39 @@
+:root {
+  --primary-color: #16243d;
+  --dark-link-color: #97a2b7;
+  --blue: #015fc9;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+header {
+  background-color: var(--primary-color);
+  color: #fff;
+  font-size: 13px;
+  padding: 10px 0;
+  color: var(--dark-link-color);
+}
+
+header li {
+  margin-right: 30px;
+}
+
+header ul {
+  margin-bottom: 0 !important;
+  padding-left: 0;
+}
+
+.header-icons {
+  color: var(--blue);
+}
+
+.social li a {
+  color: #fff;
+}
